@@ -1,4 +1,4 @@
-## Subscription Page
+<h1 align="center">Subscription Page</h1> 
 
 </h1>
 <p align="center">
