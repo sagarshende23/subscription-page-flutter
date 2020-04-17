@@ -80,7 +80,7 @@ class HomePage extends StatelessWidget {
                       // _launchURL(instagramUrl);
                     },
                     shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(80.0)),
+                        borderRadius: BorderRadius.circular(6.0)),
                     padding: EdgeInsets.all(0.0),
                     child: Ink(
                         decoration: BoxDecoration(
