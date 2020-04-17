@@ -1,16 +1,40 @@
-# subscription_page_flutter
+## Subscription Page
 
-A new Flutter project.
+</h1>
+<p align="center">
+   <a href="https://github.com/sagarshende23">
+    <img src="https://img.shields.io/badge/Github-Sagar Shende-black.svg?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sagarshende23/reflectly-like-loginpage-flutter/stargazers">
+    <img src="https://img.shields.io/github/stars/sagarshende23/subscription-page-flutter.svg?style=for-the-badge">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator">
+    <img src="https://img.shields.io/badge/Google-PlayStore-green.svg?style=for-the-badge">
+  </a>
+   <a href="https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg">
+    <img src="https://img.shields.io/badge/YouTube-AllTechSavvy-red.svg?style=for-the-badge">
+  </a>
+ 
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshot #
+<p align="center">
+<img src="https://raw.githubusercontent.com/sagarshende23/subscription-page-flutter/master/subscription_page.png" width="500">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## 🖥 Flutter Tutorial
+All Flutter Tutorials plus additional Code and shorter posts can be found on the [Official AllTechSavvy website](https://www.alltechsavvy.com/). 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ⚙️ Built with Amazing Tools
+* [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+* [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🤝 Show Some Support #
+If you liked the app give this repo a ⭐️ 
+
+
+## 🐞 Bugs/Requests #
+If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
